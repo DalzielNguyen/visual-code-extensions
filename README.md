@@ -10,3 +10,6 @@ These are all extensions I have added in my visual code.
 #### - Color Highlight: This extension styles css/web colors found in your document.
 #### - Beauty: a plugin for beautify & format several web based languages.
 #### - Live Server: Launch a local development server with live reload feature for static & dynamic pages.
+
+### Website help to implement
+#### - https://coolors.co/: generation color in the project.
